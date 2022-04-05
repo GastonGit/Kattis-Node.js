@@ -31,6 +31,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="16.13.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.11.26" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -57,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649069441283</updated>
       <workItem from="1649069442330" duration="588000" />
-      <workItem from="1649159405053" duration="2805000" />
+      <workItem from="1649159405053" duration="2894000" />
     </task>
     <servers />
   </component>
@@ -65,21 +66,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1649164844936">
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1649164955089">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1040/-1920.0.1920.1080@0.0.1920.1080" timestamp="1649164844936" />
-    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1649164844936">
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1040/-1920.0.1920.1080@0.0.1920.1080" timestamp="1649164955089" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1649164955089">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1040/-1920.0.1920.1080@0.0.1920.1080" timestamp="1649164844936" />
-    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1649164844936">
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1040/-1920.0.1920.1080@0.0.1920.1080" timestamp="1649164955089" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1649164955089">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1040/-1920.0.1920.1080@0.0.1920.1080" timestamp="1649164844936" />
-    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1649164844936">
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1040/-1920.0.1920.1080@0.0.1920.1080" timestamp="1649164955089" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1649164955089">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1040/-1920.0.1920.1080@0.0.1920.1080" timestamp="1649164844936" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1040/-1920.0.1920.1080@0.0.1920.1080" timestamp="1649164955089" />
   </component>
 </project>
